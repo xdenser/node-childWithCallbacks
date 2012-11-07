@@ -1,6 +1,6 @@
 Wrapper for NodeJS [child_process.fork()](http://nodejs.org/api/child_process.html#child_process_child_process_fork_modulepath_args_options).
 
-Adds callback parameter to send function. So you may receive direct callback from  on your message.
+Adds callback parameter to send function. So you may receive direct callback from child process on your message.
 Usage is obvious from sample.
 
 In parent:
